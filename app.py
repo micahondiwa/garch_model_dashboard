@@ -5,7 +5,7 @@ from data import AlphaVantageAPI, SQLRepository
 from model import GarchModel
 
 # Title and description
-st.title("Stock Volatility Prediction App")
+st.title("Stock Volatility Prediction")
 st.write("This app uses the AlphaVantage API to fetch stock data and GARCH models to predict stock volatility.")
 
 # Inputs
