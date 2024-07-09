@@ -164,7 +164,7 @@ class GarchModel:
 
     def dump(self):
 
-        """Save model to `self.model_directory` with timestamp.
+        """Save model to `self.model_directory` with timestamp
 
         Returns
         -------
